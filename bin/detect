@@ -8,6 +8,7 @@ build_dir=$1
 #fi
 
 echo "$build_dir"
+ls -la $build_dir
 
 echo 'Static HTML'
 exit 0
